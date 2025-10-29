@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFjODE2Nnl0MTQyZnZwcW1qdzJrZjE3a2I4bzczbThicmsxdzRsaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m0MfjLtKOgTPG/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif" />
 
 ###
 
@@ -45,8 +45,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rubberduckster/rubberduckster/output/snake.svg" alt="Snake animation" />
 
 ###
 
