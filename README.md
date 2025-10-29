@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/m0MfjLtKOgTPG/giphy.gif" />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/b2bb311b-1df0-44bb-acdd-d4b9ab424e37" />
 
 ###
 
