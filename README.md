@@ -37,13 +37,7 @@
 ###
 
 [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge "rubberducky.")](#)
-<a href="[https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/ruby-todorovic-matheson-46a7091a0/)" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="LinkedIn logo" 
-  />
-</a>
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ruby-todorovic-matheson-46a7091a0/)
 
 ###
 
